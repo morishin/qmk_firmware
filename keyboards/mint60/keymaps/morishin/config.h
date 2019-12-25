@@ -20,6 +20,7 @@
 // #define USE_SERIAL
 // #define USE_I2C
 
-// #define MASTER_RIGHT
+// 左手の Pro Micro がもげたので...
+#define MASTER_RIGHT
 
 #define TAPPING_TERM 100
